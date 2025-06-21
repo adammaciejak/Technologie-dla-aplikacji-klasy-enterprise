@@ -1,0 +1,7 @@
+﻿namespace MvcNews.Models
+{
+    public class NewsItem
+    {
+       
+    }
+}
